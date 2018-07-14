@@ -1,0 +1,64 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/wangyiyunicon .png</file>
+        <file>image/search_normal.png</file>
+        <file>image/search_press.png</file>
+        <file>image/do_flase.png</file>
+        <file>image/do_true.png</file>
+        <file>image/undo_flase.png</file>
+        <file>image/undo_true.png</file>
+        <file>image/close_pressed.png</file>
+        <file>image/max_normal .png</file>
+        <file>image/max_pressed.png</file>
+        <file>image/close_normal.png</file>
+        <file>image/min_normal.png</file>
+        <file>image/min_pressed.png</file>
+        <file>image/mini_pressed.png</file>
+        <file>image/mini_normal.png</file>
+        <file>image/seting_normal.png</file>
+        <file>image/seting_pressed.png</file>
+        <file>image/xin_normal.png</file>
+        <file>image/xin_pressed.png</file>
+        <file>image/skin_normal.png</file>
+        <file>image/skin_pressed.png</file>
+        <file>image/play_pressed.png</file>
+        <file>image/stop.png</file>
+        <file>image/play.png</file>
+        <file>image/before.png</file>
+        <file>image/berfor.png</file>
+        <file>image/next.png</file>
+        <file>image/voice_clicked.png</file>
+        <file>image/voice_unclicked.png</file>
+        <file>image/next_normal.png</file>
+        <file>image/next_pressed.png</file>
+        <file>image/before_normal.png</file>
+        <file>image/before_pressed.png</file>
+        <file>image/comboxitem1.png</file>
+        <file>image/comboxitem2.png</file>
+        <file>image/comboxitem3.png</file>
+        <file>image/music_word.png</file>
+        <file>image/list_normal.png</file>
+        <file>image/list_pressed.png</file>
+        <file>image/biger.png</file>
+        <file>image/music.png</file>
+        <file>image/morebiger.png</file>
+        <file>image/less.png</file>
+        <file>image/heijiaopian.png</file>
+        <file>image/changegan.png</file>
+        <file>image/music3.png</file>
+        <file>image/wangyimini.png</file>
+        <file>image/findMusic.png</file>
+        <file>image/fmLabel.png</file>
+        <file>image/mvlabel.png</file>
+        <file>image/friendlabel.png</file>
+        <file>image/background.png</file>
+        <file>image/add.png</file>
+        <file>image/delete.png</file>
+        <file>image/0-1.jpg</file>
+        <file>image/0-2.jpg</file>
+        <file>image/0-3.jpg</file>
+        <file>tagQml.qml</file>
+        <file>image/redLine.jpg</file>
+        <file>image/mmmmm.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,24 @@
+QWidget#customWidget {
+        background: rgb(68, 69, 73);
+}
+
+/**********子界面中央背景**********/
+QWidget#centerWidget {
+        background: rgb(50, 50, 50);
+}
+
+/**********主界面样式**********/
+QWidget#mainWindow {
+        border: 1px solid rgb(50, 50, 50);
+        background: rgb(50, 50, 50);
+}
+
+QWidget#messageWidget {
+        background: rgba(68, 69, 73, 50%);
+}
+
+QWidget#loadingWidget {
+        border: none;
+        border-radius: 5px;
+        background: rgb(50, 50, 50);
+}
