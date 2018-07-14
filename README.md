@@ -9,7 +9,7 @@ This is a music player on desktop by Qt,and I only imitated the interface of Wan
     2，项目中由我自己创建的几个自定义View还是比价有价值的。
     3，黑胶片的转动界面已经实现，可以完成模仿网易云音乐转动黑胶片界面。
     4，两个进度条，一个音乐时长进度条，一个音量条，自定义实现。
-    5，创建了听歌模式，自能添加本地音乐。
+    5，创建了多种听歌模式，只能添加本地音乐。
     
 文件夹介绍
 -----
