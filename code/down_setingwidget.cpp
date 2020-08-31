@@ -1,5 +1,5 @@
 #include "down_setingwidget.h"
-/*世界吻我以痛，我报之以歌*/
+
 
 down_setingWidget::down_setingWidget(QWidget *parent) : QWidget(parent)
 {

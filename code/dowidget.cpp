@@ -1,6 +1,4 @@
 #include "dowidget.h"
-/*大长腿的情商是不是有点低，靠，聊个天都他妈的这么费劲
-        天王盖地虎，宝塔镇河妖，此处无bug*/
 
 dowidget::dowidget(QWidget *parent) : QWidget(parent)
 {

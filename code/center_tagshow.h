@@ -25,8 +25,8 @@ class center_tagshow : public QWidget
     Q_OBJECT
 public:
     explicit center_tagshow(QWidget *parent = 0);
-    QString text;//搜索歌曲名称
-    void readJson(QString musicjson);//解析数据
+    QString text;
+    void readJson(QString musicjson);
     QListWidget *replysong;
     QLabel *imagelabel;
 

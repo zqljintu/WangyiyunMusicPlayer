@@ -1,6 +1,4 @@
 #include "down_progressbarwidget.h"
-//张晨阳就是rulezi大长腿2016.12.21
-/*世界以痛吻我，我报之以歌*/
 
 down_progressbarWidget::down_progressbarWidget(QWidget *parent) : QWidget(parent)
 {

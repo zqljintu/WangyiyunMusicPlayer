@@ -2,8 +2,7 @@
 #include "searchwidget.h"
 #include "qbjectwidget.h"
 #include "qapplication.h"
-/*天王盖地虎，宝塔镇河妖，此处无BUG.........*/
-  //活了20年，还是单身，不懂什么叫爱情
+
 
 
 MainWindow::MainWindow(QWidget *parent)

@@ -1,6 +1,4 @@
 #include "center_tagshow.h"
-/*网络模块等哥哥有空来搞吧，这里有坑，目标确定为网易云音乐的API了，实在不行就用百度api了
-                但是老子无所畏惧！！！！*/
 
 center_tagshow::center_tagshow(QWidget *parent) : QWidget(parent)
 {
